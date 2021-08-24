@@ -23,15 +23,14 @@ Use otu_ids as the labels for the bar chart.
 
 
 Use otu_labels as the hovertext for the chart.
-
-![image](https://user-images.githubusercontent.com/71952428/130555495-5c68fcd2-d84c-4abf-84ea-79231c0d95cf.png)
-
+![image](https://user-images.githubusercontent.com/71952428/130555634-e4781a16-8078-4fd4-9d85-3ad34f489a53.png)
 
 
 Create a bubble chart that displays each sample.
 
 
-![image](https://user-images.githubusercontent.com/71952428/130555552-8708a3c2-be51-4684-a1e3-33810ea09c4a.png)
+![image](https://user-images.githubusercontent.com/71952428/130555701-baa0f59f-341e-402d-a36f-08070fc0d91b.png)
+
 
 Use otu_ids for the x values.
 
